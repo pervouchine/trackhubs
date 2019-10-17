@@ -1,13 +1,13 @@
 track HepG2
-type bigBed
+type bigBed 12 + 
 bigDataUrl HepG2.bb
-itemRgb	on
+itemRgb on
 visibility 3
 shortLabel COSI_HepG2
 longLabel Completeness of splicing in HepG2
 
 track K562
-type bigBed
+type bigBed 12 +
 bigDataUrl K562.bb
 itemRgb	on
 visibility 3
