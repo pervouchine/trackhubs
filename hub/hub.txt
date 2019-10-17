@@ -1,0 +1,5 @@
+hub splicing
+shortLabel Alternative splicing 
+longLabel Alternative splicing in various conditions 
+genomesFile genomes.txt
+email d.pervouchine@skoltech.ru
