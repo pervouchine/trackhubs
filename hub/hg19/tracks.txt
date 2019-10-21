@@ -21,3 +21,11 @@ itemRgb on
 visibility 3
 shortLabel shRNA-KD with Q>1.3
 longLabel deltaPSI under shRNA-KD of RBP with log10(q)>1.3
+
+track Fast-Slow
+type bigBed 9+
+bigDataUrl slowfast.bb
+itemRgb on
+visibility 3
+shortLabel Fast-Slow Pol II inclusion
+longLabel deltaPSI in fast vs. slow Pol II mutant 
